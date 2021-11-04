@@ -1,9 +1,9 @@
 ### Hi there, I'm William Bugenis! 👋
 
 ## About Me
-Thanks for stopping by! I'm a Full Stack Developer in Brooklyn, NY.
-If I'm not busy coding, I'm most likely on my computer playing games, binging tv and movies, or listening to electronic music and podcasts.
-When I'm able to get out of the city, you'll probably find me walking in the woods or in my kayak.
+Thanks for stopping by! I'm a Full Stack Developer in Brooklyn, NY. <br />
+If I'm not busy coding, I'm most likely on my computer playing games, binging tv and movies, or listening to electronic music and podcasts. <br />
+When I'm able to get out of the city, you'll probably find me walking in the woods or in my kayak. <br />
 
 - 🌱 Working on building my coding skills and picking up new technologies, polishing up my projects
 - 👯 I’d be happy to collaborate on anything you'd like - feel free to reach out!
