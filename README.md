@@ -6,7 +6,6 @@ If I'm not busy coding, I'm most likely on my computer playing games, binging tv
 When I'm able to get out of the city, you'll probably find me walking in the woods or in my kayak. <br />
 
 - 🌱 Working on building my coding skills and picking up new technologies, polishing up my projects
-- 👯 I’d be happy to collaborate on anything you'd like - feel free to reach out!
 
 ## Connect with me!
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />][blog]
